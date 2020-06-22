@@ -1,0 +1,13 @@
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula22POO\obj\Debug\netcoreapp3.1\Aula22POO.csprojAssemblyReference.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula22POO\obj\Debug\netcoreapp3.1\Aula22POO.csproj.CoreCompileInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula22POO\obj\Debug\netcoreapp3.1\Aula22POO.AssemblyInfoInputs.cache
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula22POO\obj\Debug\netcoreapp3.1\Aula22POO.AssemblyInfo.cs
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula22POO\bin\Debug\netcoreapp3.1\Aula22POO.exe
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula22POO\bin\Debug\netcoreapp3.1\Aula22POO.deps.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula22POO\bin\Debug\netcoreapp3.1\Aula22POO.runtimeconfig.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula22POO\bin\Debug\netcoreapp3.1\Aula22POO.runtimeconfig.dev.json
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula22POO\bin\Debug\netcoreapp3.1\Aula22POO.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula22POO\bin\Debug\netcoreapp3.1\Aula22POO.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula22POO\obj\Debug\netcoreapp3.1\Aula22POO.dll
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula22POO\obj\Debug\netcoreapp3.1\Aula22POO.pdb
+C:\Users\duart\OneDrive\Área de Trabalho\aulas do senai\POO\Aula22POO\obj\Debug\netcoreapp3.1\Aula22POO.genruntimeconfig.cache
